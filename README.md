@@ -10,7 +10,7 @@ A simple and responsive **Todo List Application** built using **HTML**, **CSS**,
 
 ---
 
-## 🔗 [Live Demo](#)
+## 🔗 [Live Demo](https://elorf-lahcen.github.io/TodoListAppProject/)
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
